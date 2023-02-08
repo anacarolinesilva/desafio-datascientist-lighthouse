@@ -13,8 +13,8 @@ pip install requeriments.txt
 - No resultado, você terá um arquivo chamado predicted.csv, com duas colunas: rowNumber (número da linha) e predictedValues.
 
 
--README: Contendo as informações do projeto;
--Requirements: requirements.txt, contendo as bibliotecas e pacotes do ambiente virtual utilizado;
--Relatório de EDA: Jupyter Notebook EDA.ipynb;
--Código de Modelagem: Jupyter Notebook EDA.ipynb;
--Arquivo com as previsões: O arquivo .csv (predicted.csv) com as previsões do modelo se encontra dentro da pasta datasets.
+- README: Contendo as informações do projeto;
+- Requirements: requirements.txt, contendo as bibliotecas e pacotes do ambiente virtual utilizado;
+- Relatório de EDA: Jupyter Notebook EDA.ipynb;
+- Código de Modelagem: Jupyter Notebook EDA.ipynb;
+- Arquivo com as previsões: O arquivo .csv (predicted.csv) com as previsões do modelo se encontra dentro da pasta datasets.
