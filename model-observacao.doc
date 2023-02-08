@@ -1,0 +1,34 @@
+* A proposta é prever o tipo de falha de uma máquina. 
+* Iremos definir um modelo preditivo, utilizando algoritmos de Machine Learning
+* LGBM Classifier
+
+A previsão do tipo de falha será feita usando um algoritmo de CLASSIFICAÇÃO:
+- Coletando dados
+- Conjunto de dados com informações
+- Dados categorizados
+
+Temos 5 etapas importantes, para resolvermos um problema:
+1- ENTENDER O PROBLEMA
+2- OBTER E PREPARAR OS DADOS
+3- EXPLORAR OS DADOS
+4- MODELAR O PROBLEMA
+5- TOMAR DECISÕES
+
+Faz parte do processo de identificação:
+- Limpeza dos dados
+- Remover valores faltantes ou duplicatos
+- Transformação dos dados
+- Dados preparados para a análise
+- Identificar os fatores de risco (os que já estão na faixa de risco, e os que estão propensos a ir para a faixa de risco)
+- Fazer vários testes, utilizando técnicas diferentes, para escolher as variáveis mais relevantes na identificação dos que poderão ir para a faixa de risco
+- Informações que ajudam a descobrir quem tem maiores chances de ir para a faixa de risco
+- Modelagem do problema (escolher uma técnica de aprendizado de maquina)
+- Encontrar padrões de forma automática, a partir do conjunto de dados selecionado
+- Pode ser modelado o problema, para que os padrões gerem respostas (sim ou não) ou apresentem a probabilidade dos que estão quase na faixa de risco, ir para a faixa de risco
+- Para escolher a melhor opção, é necessário realizar testes com uma parte dos dados, para selecionar o modelo que apresenta a maior precisão
+- Após gerar o modelo, chegou a hora da tomada de decisão, do que deve ser feito, com base dos padrões encontrados
+- Avaliar os resultados encontrados e selecionar os dados, com chance mais alta de ir para o fator de risco
+- Prevenir é melhor que remediar!
+
+
+
